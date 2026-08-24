@@ -1,0 +1,9 @@
+# Build output
+CornerGrocer/CornerGrocer
+CornerGrocer/CornerGrocer.exe
+CornerGrocer/build/
+
+# Editor and operating-system files
+.DS_Store
+*.o
+*.obj
